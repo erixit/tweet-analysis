@@ -1,0 +1,6 @@
+oauth2
+psycopg
+psycopg_pool
+Flask
+requests
+setuptools
